@@ -1,3 +1,0 @@
-name: SUPER MARIO BROS
-age: FOR THE 3DS
-location: WAHOO!
